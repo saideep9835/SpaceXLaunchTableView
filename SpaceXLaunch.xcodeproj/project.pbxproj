@@ -16,6 +16,7 @@
 		A54D842E2C88ED6C0032EAEB /* SpaceXLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A54D842D2C88ED6C0032EAEB /* SpaceXLaunchTests.swift */; };
 		A54D84382C88ED6C0032EAEB /* SpaceXLaunchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A54D84372C88ED6C0032EAEB /* SpaceXLaunchUITests.swift */; };
 		A54D843A2C88ED6C0032EAEB /* SpaceXLaunchUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A54D84392C88ED6C0032EAEB /* SpaceXLaunchUITestsLaunchTests.swift */; };
+		A54D84472C88EE810032EAEB /* SpaceXLaunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = A54D84462C88EE810032EAEB /* SpaceXLaunch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A54D84332C88ED6C0032EAEB /* SpaceXLaunchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpaceXLaunchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A54D84372C88ED6C0032EAEB /* SpaceXLaunchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceXLaunchUITests.swift; sourceTree = "<group>"; };
 		A54D84392C88ED6C0032EAEB /* SpaceXLaunchUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceXLaunchUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A54D84462C88EE810032EAEB /* SpaceXLaunch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceXLaunch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				A54D841F2C88ED6C0032EAEB /* Assets.xcassets */,
 				A54D84212C88ED6C0032EAEB /* LaunchScreen.storyboard */,
 				A54D84242C88ED6C0032EAEB /* Info.plist */,
+				A54D84462C88EE810032EAEB /* SpaceXLaunch.swift */,
 			);
 			path = SpaceXLaunch;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A54D84472C88EE810032EAEB /* SpaceXLaunch.swift in Sources */,
 				A54D841B2C88ED6A0032EAEB /* ViewController.swift in Sources */,
 				A54D84172C88ED6A0032EAEB /* AppDelegate.swift in Sources */,
 				A54D84192C88ED6A0032EAEB /* SceneDelegate.swift in Sources */,
